@@ -1,4 +1,4 @@
-# Prompt Engineering Session 06: Cursor AI & Python
+# Session 06: Cursor 
 
 ## Overview
 This directory contains the classwork (CW) and homework (HW) deliverables for Session 06. The primary focus was exploring AI-assisted development using the **Cursor AI editor**, specifically safe code refactoring, strict output verification, and configuring persistent AI rules across multiple files.
